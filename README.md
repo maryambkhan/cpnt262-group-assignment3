@@ -23,6 +23,7 @@
 
 - Logo (Tess)
 - Mockup (Tess)
+- Content Writing (Tess)
 - Wireframe (Jibril)
 - FlowChart (Maryam)
 
@@ -46,7 +47,18 @@
        - Footer
        - Cards
        - Articles
-       
+     - [hackmd](https://hackmd.io/Xeq--taORAuCBjLpOH0SsQ?both) 
+
+## Journal Entries
+ - I have created rough idea of flow chart i am going to wait for tess to complete the 
+   mockup of website.
+ - I have started creating storyblok api for page about us.
+ - Now i am going to test it by fetching it and the i will leave it for tess to write content.
+ - Fetching was success.
+
+ ## Problem
+ - `vite` error updating dependencies  i am not sure what is that.
+
 ## Resources
 
  - [Nuxt3](https://v3.nuxtjs.org/)
