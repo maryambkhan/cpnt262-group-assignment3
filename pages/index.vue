@@ -1,45 +1,14 @@
 <template>
-<header>
-  <h1>
-    {{ state.story.name }}
-  </h1>
-</header>
-<!--StoryBlok -->
- <section>
-   <h1 class="flex justify-center font-bold text-orange-900 text-2xl mt-4">StoryBlok Api</h1>
-  <AboutUs :blok="components[1]" />
+<main>
   <div>
-    <pre>
-      {{ pageContent }}
-    </pre>
+    <TheHeader />
+		
   </div>
-
- </section>
-
+	<TheFooter :title="'&copy; team dev'" />
+</main>
 </template>
 
+
 <script setup>
-
-const storyapi = useStoryApi();
-
-const { data: team } = await storyapi.get("cdn/stories/about-us/team-members", {
-  version: "draft",
-});
-
-
-const state = reactive({ story: team.story });
-
-
-const pageContent = state.story.content;
-
-
-const components = state.story.content.team;
-
-const pageInfo = {
-  title: pageContent,
-  description: state.story.content.description,
-};
-
-
 </script>
 

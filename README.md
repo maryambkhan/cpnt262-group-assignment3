@@ -57,7 +57,8 @@
  - Fetching was success.
 
  ## Problem
- - `vite` error updating dependencies  i am not sure what is that.
+ - cant find `#app` error updating dependencies  i am not sure what is that.
+ - [SOLVED](https://github.com/storyblok/storyblok-vue/issues/13)
 
 ## Resources
 
