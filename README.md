@@ -55,4 +55,4 @@
  - [Google Fonts](https://google-fonts.nuxtjs.org/setup)
  - [Inspiration](https://www.hilvy.io/)
 
-## Attributions# cpnt262-group-assignment3
+## Attributions
