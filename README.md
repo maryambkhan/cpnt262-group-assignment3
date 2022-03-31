@@ -72,3 +72,5 @@
  - [Inspiration](https://www.hilvy.io/)
 
 ## Attributions
+
+- [freepik](https://www.freepik.com/premium-vector/concept-web-design-website-page-development-working-processtemplate-landing-page-website_18981803.htm#query=web%20development&position=31&from_view=search)

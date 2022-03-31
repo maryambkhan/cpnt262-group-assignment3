@@ -1,9 +1,9 @@
 <template>
   <nav class="flex flex-wrap">
-    <NuxtLink to="/" class="px-10 text-white font-semibold">HOME</NuxtLink>
-    <NuxtLink to="/" class="px-10 text-white font-semibold">SERVICES</NuxtLink>
-    <NuxtLink  class="px-10 text-white font-semibold" to="/about">ABOUT</NuxtLink>
-    <NuxtLink to="/" class="px-10 text-white font-semibold">CONTACT</NuxtLink>
+    <NuxtLink to="/" class="px-10 text-white font-semibold hover:underline">HOME</NuxtLink>
+    <NuxtLink to="/" class="px-10 text-white font-semibold hover:underline">SERVICES</NuxtLink>
+    <NuxtLink  to="/about" class="px-10 text-white font-semibold hover:underline" >ABOUT</NuxtLink>
+    <NuxtLink to="/" class="px-10 text-white font-semibold hover:underline">CONTACT</NuxtLink>
   </nav>
 </template>
 
