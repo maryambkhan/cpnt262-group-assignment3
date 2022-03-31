@@ -1,13 +1,13 @@
 <template>
-  <nav class="flex flex-col items-center  justify-center  py-2">
-    <ul>
-      <a href="#" class="px-10 font-semibold">HOME</a>
-      <a href="#" class="px-10 font-semibold">SERVICES</a>
-      <a href="#" class="px-10 font-semibold">ABOUT US</a>
-      <a href="#" class="px-10 font-semibold">CONTACT</a>
-    </ul>
+  <nav class="flex flex-wrap">
+    <NuxtLink to="/" class="px-10 text-white font-semibold">HOME</NuxtLink>
+    <NuxtLink to="/" class="px-10 text-white font-semibold">SERVICES</NuxtLink>
+    <NuxtLink  class="px-10 text-white font-semibold" to="/about">ABOUT</NuxtLink>
+    <NuxtLink to="/" class="px-10 text-white font-semibold">CONTACT</NuxtLink>
   </nav>
 </template>
 
+
 <script setup>
 </script>
+

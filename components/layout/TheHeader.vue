@@ -1,5 +1,5 @@
 <template>
-  <header class="flex gap-4 py-4">
+  <header class="flex justify-between gap-4 py-4">
     <TheLogo />
     <TheNavBar />
   </header>

@@ -1,6 +1,4 @@
 <template>
-<div>
-<main>
 <!--StoryBlok -->
  <section>
    <h1 class="flex justify-center font-bold text-orange-900 text-2xl mt-4">Our Team</h1>
@@ -13,8 +11,6 @@
   </div>
 
  </section>
-</main>
-</div>
 </template>
 
 

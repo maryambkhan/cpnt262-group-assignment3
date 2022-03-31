@@ -55,10 +55,13 @@
  - I have started creating storyblok api for page about us.
  - Now i am going to test it by fetching it and the i will leave it for tess to write content.
  - Fetching was success.
+ - Just created the structure of home page might have to change hero image becouse tess is working on 
+   it.
 
  ## Problem
  - cant find `#app` error updating dependencies  i am not sure what is that.
  - [SOLVED](https://github.com/storyblok/storyblok-vue/issues/13)
+ - Having some issue with navigating 
 
 ## Resources
 
