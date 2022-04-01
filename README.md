@@ -48,6 +48,7 @@
        - Cards
        - Articles
      - [hackmd](https://hackmd.io/Xeq--taORAuCBjLpOH0SsQ?both) 
+     - [Figma](https://www.figma.com/file/GcUnHwF836HBozFskuJHdx/Group-Project---Design-Concept?node-id=0%3A1)
 
 ## Journal Entries
  - I have created rough idea of flow chart i am going to wait for tess to complete the 
