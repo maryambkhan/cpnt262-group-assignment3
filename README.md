@@ -65,6 +65,10 @@
  - Tony helped me with api problem.
  - Finished desigining about us page it just took while to fix the problem other then that it was great.
  - Just waiting for jibril to write content about himself otherwise page is done
+ - I  just added logo to page and its looking good.
+ - Next i am going to work on contact page 
+ - I have two ideas one is fetching map api and other is just adding form.
+ - Lets see what works 
  ## Problem
  - cant find `#app` error updating dependencies  i am not sure what is that.
  - [SOLVED](https://github.com/storyblok/storyblok-vue/issues/13)
