@@ -1,7 +1,7 @@
 <template>
-<!--StoryBlok -->
+    <!--StoryBlok -->
  <section>
-   <h1 class="flex justify-center font-bold text-orange-900 text-2xl mt-4">Our Team</h1>
+   <h1 class="flex justify-center font-bold text-black text-2xl mt-4">MEET THE TEAM</h1>
   <AboutUs :blok="components[0]" />
   
   <div>
@@ -12,7 +12,6 @@
 
  </section>
 </template>
-
 
 <script setup>
 const storyapi = useStoryApi();

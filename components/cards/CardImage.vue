@@ -3,7 +3,7 @@
   <img
     :src="props.url"
     :alt="props.alt"
-    class="h-60 w-60"
+    class="h-60 w-60 rounded-md"
   />
 </div>
 </template>
