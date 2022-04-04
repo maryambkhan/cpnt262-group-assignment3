@@ -15,6 +15,5 @@
 <style>
 body {
   background-color:  #BAD0FC;
-;
 }
 </style>

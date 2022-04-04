@@ -2,7 +2,7 @@
   <div>
     <div class="flex m-auto">
       <img
-        src="https://img.freepik.com/free-vector/concept-web-design-website-page-development-working-processtemplate-landing-page-website_473851-256.jpg?w=1800"
+        src="../../assets/images/vetor-image.jpg"
         alt="Hero image"
         class="w-full"
       />

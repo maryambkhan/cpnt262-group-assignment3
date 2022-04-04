@@ -33,18 +33,18 @@ const cards = [
     title: "JAVA SCRIPT",
     description: "Take your existing website functionality to the next level",
     image:
-      "https://images.pexels.com/photos/4578665/pexels-photo-4578665.jpeg?cs=srgb&dl=pexels-markus-winkler-4578665.jpg&fm=jpg",
+      "../../assets/images/java.jpg",
   },
   {
     title: "UX/UI",
     description: "Graphic design tailored to the user experience",
     image:
-      "https://images.pexels.com/photos/4348404/pexels-photo-4348404.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "../../assets/images/ux.jpeg",
   },
   {
     title: "SEO Optimization",
     description: "Jump to the top of the list when SEO tactics",
-    image: "https://images.pexels.com/photos/1714340/pexels-photo-1714340.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    image: "../../assets/images/seo.jpeg",
   },
 ];
 </script>

@@ -1,10 +1,12 @@
 # CPNT 262 - GROUP ASSIGNMENT
 
-## 
+## YYC Code Collective
 
-
+- [GH repo](https://github.com/maryambkhan/cpnt262-group-assignment3)
+- [Netlify Site]()
 
 ## Team
+
 - Tess Hutson
 - Jibril Adem
 - Maryam Khan
@@ -22,8 +24,7 @@
 ## Tasks
 
 - Logo (Tess)
-- Mockup (Tess)
-- Design (Tess)
+- Design Mockups (Tess)
 - Content Writing (Tess)
 - Wireframe (Jibril)
 - FlowChart (Maryam)
@@ -112,3 +113,8 @@
 - [pexels](https://images.pexels.com/photos/4578665/pexels-photo-4578665.jpeg?cs=srgb&dl=pexels-markus-winkler-4578665.jpg&fm=jpg)
 - [pexels](https://images.pexels.com/photos/4348404/pexels-photo-4348404.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 - [pexels](https://images.pexels.com/photos/1714340/pexels-photo-1714340.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
+## Team Assesment
+
+- Tess Hutson
+- Jibril Adem
