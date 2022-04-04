@@ -69,8 +69,12 @@
  - Next i am going to work on contact page 
  - I have two ideas one is fetching map api and other is just adding form.
  - Lets see what works 
+ - So iserched for google map i needed API key and then i googled for without key  
+   after while found a page where i fllowed instructions and got embeded gmap without Api key
+   i have added the link to it
  - Well i have succeded fetching gmap api i got this idea from jessica's site so i thought i should try it too
  - Well i am glad everything working good
+ 
  
  ## Problem
  - cant find `#app` error updating dependencies  i am not sure what is that.
@@ -85,6 +89,8 @@
  - [Google Fonts](https://google-fonts.nuxtjs.org/setup)
  - [Inspiration](https://www.hilvy.io/)
  - [Google Map](https://developers.google.com/maps/documentation/embed/get-started)
+ - [duds](https://blog.duda.co/responsive-google-maps-for-your-website)
+
 
 ## Attributions
 
