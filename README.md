@@ -60,7 +60,8 @@
    it.
  - I just finished creating a local api for services page and now i am going to test it if it works
   becouse i have this problem with navigation so i cant see live changes.
-
+ - Just created services pages cards and applied design looking good next i am going to work on about page
+   where i am having issue not sure y?
  ## Problem
  - cant find `#app` error updating dependencies  i am not sure what is that.
  - [SOLVED](https://github.com/storyblok/storyblok-vue/issues/13)
