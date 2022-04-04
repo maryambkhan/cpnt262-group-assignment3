@@ -32,14 +32,12 @@ const cards = [
   {
     title: "JAVA SCRIPT",
     description: "Take your existing website functionality to the next level",
-    image:
-      "../../assets/images/java.jpg",
+    image: "../../assets/images/java.jpg",
   },
   {
     title: "UX/UI",
     description: "Graphic design tailored to the user experience",
-    image:
-      "../../assets/images/ux.jpeg",
+    image:"../../assets/images/ux.jpeg",
   },
   {
     title: "SEO Optimization",

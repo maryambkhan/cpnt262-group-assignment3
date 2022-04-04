@@ -84,7 +84,8 @@
  - Well i have succeded fetching gmap api i got this idea from jessica's site so i thought i should try it too
  - Well i am glad everything working good
  - Just finished with all the last minutes touchups and going to update readme 
- 
+ - I just tried to deploy the site and its not working one whole page is not showing 
+   and few images not showing dont know why 
  
  ## Problems
 
