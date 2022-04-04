@@ -86,6 +86,8 @@
  - Just finished with all the last minutes touchups and going to update readme 
  - I just tried to deploy the site and its not working one whole page is not showing 
    and few images not showing dont know why 
+ - I tried to add google font and fontawesome they all were nuxt2 supported 
+   i cant find how to add nuxt3
  
  ## Problems
 
@@ -105,7 +107,7 @@
  - [Inspiration](https://www.hilvy.io/)
  - [Google Map](https://developers.google.com/maps/documentation/embed/get-started)
  - [duds](https://blog.duda.co/responsive-google-maps-for-your-website)
-
+ - [Super Dev](https://www.youtube.com/watch?v=JS9Pl3vcWTM)
 
 ## Attributions
 
