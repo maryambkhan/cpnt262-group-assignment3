@@ -8,7 +8,7 @@
         class="w-90 h-90"
       />
     </div>
-    <h1 class="text-center font-semibold text-2xl mt-8 text-white">
+    <h1 class="text-center font-semibold text-4xl mt-8 text-blue-300">
       SERVICES WE PROVIDE
     </h1>
     <div class="flex flex-wrap justify-center mt-8">

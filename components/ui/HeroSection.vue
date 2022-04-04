@@ -8,7 +8,7 @@
       />
     </div>
       <div class="ml-4 text-center md:flex md:flex-col md:justify-center">
-        <h1 class="text-black text-2kl md:text-4xl lg:text-6xl font-bold mt-8">
+        <h1 class=" md:text-4xl lg:text-6xl font-bold mt-8 text-blue-300">
           WELCOME
         </h1>
         <p class="font-semibold text-white mt-2">

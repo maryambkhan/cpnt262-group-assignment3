@@ -62,11 +62,14 @@
   becouse i have this problem with navigation so i cant see live changes.
  - Just created services pages cards and applied design looking good next i am going to work on about page
    where i am having issue not sure y?
+ - Tony helped me with api problem.
+ - Finished desigining about us page it just took while to fix the problem other then that it was great.
+ - Just waiting for jibril to write content about himself otherwise page is done
  ## Problem
  - cant find `#app` error updating dependencies  i am not sure what is that.
  - [SOLVED](https://github.com/storyblok/storyblok-vue/issues/13)
  - Having some issue with navigating 
-
+ -  solved :I was missing this :accessToken:`process.env.STORYBLOK_API_KEY`
 ## Resources
 
  - [Nuxt3](https://v3.nuxtjs.org/)
