@@ -1,14 +1,16 @@
 <template>
   <div>
     <TheHeader />
-    <div class="flex m-auto">
+    <div class="flex justify-center m-auto mt-4">
       <img
         src="https://img.freepik.com/free-vector/database-with-cloud-server-data-set-process-classification-database-data-analytic_473851-325.jpg?w=1480"
         alt="coding image"
-        class="w-full"
+        class="w-90 h-90"
       />
     </div>
-    <h1 class="text-center font-semibold  text-2xl mt-8 text-white">SERVICES WE PROVIDE</h1>
+    <h1 class="text-center font-semibold text-2xl mt-8 text-white">
+      SERVICES WE PROVIDE
+    </h1>
     <div class="flex flex-wrap justify-center mt-8">
       <CardLayout v-for="card in cards" :key="card.id">
         <card-image :url="card.image" />
@@ -16,7 +18,7 @@
         <card-info>{{ card.description }}</card-info>
       </CardLayout>
     </div>
-   <TheFooter :title="'&copy; team dev'" />
+    <TheFooter  />
   </div>
 </template>
 
@@ -25,7 +27,7 @@ const cards = [
   {
     title: "Web Development",
     description: "Building and Creating websites from the ground up",
-    image: "",
+    image: "https://images.pexels.com/photos/160107/pexels-photo-160107.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
   },
   {
     title: "JAVA SCRIPT",
@@ -36,12 +38,13 @@ const cards = [
   {
     title: "UX/UI",
     description: "Graphic design tailored to the user experience",
-    image: "",
+    image:
+      "https://images.pexels.com/photos/4348404/pexels-photo-4348404.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
   },
   {
     title: "SEO Optimization",
     description: "Jump to the top of the list when SEO tactics",
-    image: "",
+    image: "https://images.pexels.com/photos/1714340/pexels-photo-1714340.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
   },
 ];
 </script>

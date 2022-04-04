@@ -4,7 +4,7 @@
     <div>
       <HeroSection />
     </div>
-    <TheFooter :title="'&copy; team dev'" />
+    <TheFooter  />
   </div>
 </template>
 

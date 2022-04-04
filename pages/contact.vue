@@ -1,4 +1,5 @@
 <template>
+<div>
   <div class="mapouter">
     <div class="gmap_canvas">
       <iframe
@@ -13,6 +14,7 @@
       ><a href="https://www.embedgooglemap.net">google maps embed html</a>
     </div>
   </div>
+</div>
 </template>
 
 <style>
