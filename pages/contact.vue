@@ -1,20 +1,19 @@
 <template>
   <div>
     <TheHeader />
-     <div class="absolute ml-4">
-      <div class="overflow-hidden ">
+    <div class="absolute ml-4">
+      <div class="overflow-hidden">
         <iframe
           width="600"
-          height="500"
-          id="gmap_canvas"
-          src="https://maps.google.com/maps?q=calgary&t=&z=13&ie=UTF8&iwloc=&output=embed"
-          frameborder="0"
-          scrolling="no"
-          marginheight="0"
-          marginwidth="0"
-        ></iframe
-        ><a href="https://www.whatismyip-address.com/divi-discount/"></a><br />
-        <a href="https://www.embedgooglemap.net"></a>
+          height="450"
+          style="border: 0"
+          loading="lazy"
+          allowfullscreen
+          referrerpolicy="no-referrer-when-downgrade"
+          src="https://www.google.com/maps/embed/v1/place?key=API_KEY
+    &q=Space+Needle,Seattle+WA"
+        >
+        </iframe>
       </div>
     </div>
   </div>
