@@ -3,7 +3,7 @@
 ## YYC Code Collective
 
 - [GH repo](https://github.com/maryambkhan/cpnt262-group-assignment3)
-- [Netlify Site]()
+- [Netlify Site](https://fantastic-trifle-c2ffe0.netlify.app/)
 
 ## Team
 
