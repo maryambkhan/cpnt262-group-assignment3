@@ -69,6 +69,8 @@
  - Next i am going to work on contact page 
  - I have two ideas one is fetching map api and other is just adding form.
  - Lets see what works 
+ - Well i have succeded fetching gmap api i got this idea from jessica's site so i thought i should try it too
+ - Well i am glad everything working good
  ## Problem
  - cant find `#app` error updating dependencies  i am not sure what is that.
  - [SOLVED](https://github.com/storyblok/storyblok-vue/issues/13)
@@ -81,6 +83,7 @@
  - [Tailwindcss](https://tailwindcss.nuxtjs.org/tailwind/config/)
  - [Google Fonts](https://google-fonts.nuxtjs.org/setup)
  - [Inspiration](https://www.hilvy.io/)
+ - [Google Map](https://developers.google.com/maps/documentation/embed/get-started)
 
 ## Attributions
 
