@@ -1,11 +1,11 @@
 <template>
-<main>
   <div>
     <TheHeader />
+    <div>
+      <HeroSection />
+    </div>
+    <TheFooter :title="'&copy; team dev'" />
   </div>
-  <HeroSection />
-	<TheFooter :title="'&copy; team dev'" />
-</main>
 </template>
 
 

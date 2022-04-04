@@ -57,6 +57,8 @@
  - Fetching was success.
  - Just created the structure of home page might have to change hero image becouse tess is working on 
    it.
+ - I just finished creating a local api for services page and now i am going to test it if it works
+  becouse i have this problem with navigation so i cant see live changes.
 
  ## Problem
  - cant find `#app` error updating dependencies  i am not sure what is that.
@@ -74,3 +76,4 @@
 ## Attributions
 
 - [freepik](https://www.freepik.com/premium-vector/concept-web-design-website-page-development-working-processtemplate-landing-page-website_18981803.htm#query=web%20development&position=31&from_view=search)
+- [Google-Map-Api](https://developers.google.com/maps/documentation/embed/get-started)

@@ -2,7 +2,7 @@
 <!--StoryBlok -->
  <section>
    <h1 class="flex justify-center font-bold text-orange-900 text-2xl mt-4">Our Team</h1>
-  <AboutUs :blok="components[1]" />
+  <AboutUs :blok="components[0]" />
   
   <div>
     <pre>
@@ -15,7 +15,6 @@
 
 
 <script setup>
-
 const storyapi = useStoryApi();
 
 const { data: team } = await storyapi.get("cdn/stories/about-us/team-members", {
