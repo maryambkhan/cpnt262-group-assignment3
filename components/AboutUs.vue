@@ -26,13 +26,13 @@
           />
         </div>
         <div class="p-8">
-          <h1 class="flex justify-center font-bold text-2xl text-blue-900 ">
+          <h1 class="flex justify-start font-bold text-2xl text-blue-900 ">
             {{ blok.name }}
           </h1>
-          <p class="flex justify-center font-semibold text-2xl text-blue-900 ">
+          <p class="flex justify-start font-semibold text-2xl text-blue-500 ">
             {{ blok.role }}
           </p>
-          <p class="flex justify-center text-lg">{{ blok.skills }}</p>
+          <p class="flex justify-start text-lg text-blue-500">{{ blok.skills }}</p>
         </div>
       </div>
     </div>

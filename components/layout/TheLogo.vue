@@ -37,7 +37,7 @@
 <style scoped>
 svg {
   width: 10vw;
-  height: 10vh;
+  height: 5vh;
   display: block;
 }
 </style>

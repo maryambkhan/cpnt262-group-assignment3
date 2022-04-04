@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="flex m-auto mt-2">
+    <div class="flex m-auto">
       <img
         src="https://img.freepik.com/free-vector/concept-web-design-website-page-development-working-processtemplate-landing-page-website_473851-256.jpg?w=1800"
         alt="Hero image"
@@ -8,10 +8,10 @@
       />
     </div>
       <div class="ml-4 text-center md:flex md:flex-col md:justify-center">
-        <h1 class=" md:text-4xl lg:text-6xl font-bold mt-8 text-blue-300">
+        <h1 class=" md:text-4xl lg:text-6xl font-bold mt-8 text-blue-800">
           WELCOME
         </h1>
-        <p class="font-semibold text-white mt-2">
+        <p class="box-content  max-w-screen-md mx-auto font-semibold text-blue-500 mt-2">
           Based in Calgary, AB we are a small web development and design agency
           with big results. We specialize in tailoring custom websites with
           eye-catching visuals to showcase the talents, services and products of
@@ -26,14 +26,14 @@
           <button
             class="
               mt-4
-              bg-red-400
-              hover:bg-red-700
+              bg-blue-500
+              hover:bg-blue-700
               p-4
               rounded-xl
               text-stone-50
             "
           >
-            READ MORE
+            Viev Our Services
           </button>
         </div>
       </div>

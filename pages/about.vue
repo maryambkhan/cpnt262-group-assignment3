@@ -2,7 +2,7 @@
  <TheHeader />
     <!--StoryBlok -->
  <section>
-   <h1 class="flex justify-center font-bold text-blue-300 text-4xl mt-10">MEET THE TEAM</h1>
+   <h1 class="flex justify-center font-bold text-blue-800 text-4xl mt-10">MEET THE TEAM</h1>
   <AboutUs :blok="components[0]" />
    <AboutUs :blok="components[1]" />
     <AboutUs :blok="components[2]" />

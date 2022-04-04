@@ -1,14 +1,14 @@
 <template>
   <div>
     <TheHeader />
-    <div class="flex justify-center m-auto mt-4">
+    <div class="flex justify-center m-auto mt-2">
       <img
         src="https://img.freepik.com/free-vector/database-with-cloud-server-data-set-process-classification-database-data-analytic_473851-325.jpg?w=1480"
         alt="coding image"
         class="w-90 h-90"
       />
     </div>
-    <h1 class="text-center font-semibold text-4xl mt-8 text-blue-300">
+    <h1 class="text-center font-semibold text-4xl mt-8 text-blue-900">
       SERVICES WE PROVIDE
     </h1>
     <div class="flex flex-wrap justify-center mt-8">
