@@ -3,7 +3,7 @@
     <TheHeader />
     <div class="flex justify-center m-auto mt-2">
       <img
-        src="../../assets/images/servicehero.jpg"
+        src="../assets/images/servicehero.jpg"
         alt="coding image"
         class="w-90 h-90"
       />

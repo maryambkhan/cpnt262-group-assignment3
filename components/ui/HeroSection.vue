@@ -2,7 +2,7 @@
   <div>
     <div class="flex m-auto">
       <img
-        src="../../assets/images/vector-image.jpg"
+        src="../assets/images/vector-image.jpg"
         alt="Hero image"
         class="w-full"
       />
