@@ -88,6 +88,9 @@
    and few images not showing dont know why 
  - I tried to add google font and fontawesome they all were nuxt2 supported 
    i cant find how to add nuxt3
+ - Jessica helped me with adding icons 
+ - She told me that i can add i cons as svgs to the page 
+ - Next i am going to solve netlify problem as i am done with everything else
  
  ## Problems
 
@@ -97,6 +100,7 @@
  -  solved :I was missing this :accessToken:`process.env.STORYBLOK_API_KEY`
  - I had little troubel setting up googlemap api but i solved it
  - [duds](https://blog.duda.co/responsive-google-maps-for-your-website)
+ - Netlify problem I did not new i had to add api key to netlify too
 
 ## Resources
 
