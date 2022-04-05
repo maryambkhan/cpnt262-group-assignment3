@@ -1,4 +1,5 @@
 <template>
+<div>
  <TheHeader />
     <!--StoryBlok -->
  <section>
@@ -15,6 +16,7 @@
 -->
  </section>
      <TheFooter  />
+</div>
 </template>
 
 <script setup>
