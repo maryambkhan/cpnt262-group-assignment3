@@ -5,7 +5,7 @@ export default defineNuxtConfig({
     
     css: [],
     components: ["~/components","~/components/layout","~/components/ui","~/components/cards","~/pages"],
-    buildModules: [["@storyblok/nuxt", { accessToken:process.env.STORYBLOK_API_KEY}],'@nuxtjs/tailwindcss'],
+    buildModules: [["@storyblok/nuxt", { accessToken: process.env.STORYBLOK_API_KEY}],'@nuxtjs/tailwindcss'],
     modules: [],
     // build: {
     //     transpile: [
