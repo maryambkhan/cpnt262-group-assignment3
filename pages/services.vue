@@ -3,7 +3,7 @@
     <TheHeader />
     <div class="flex justify-center m-auto mt-2">
       <img
-        src="https://img.freepik.com/free-vector/database-with-cloud-server-data-set-process-classification-database-data-analytic_473851-325.jpg?w=1480"
+        src="../../assets/images/servicehero.jpg"
         alt="coding image"
         class="w-90 h-90"
       />
