@@ -4,7 +4,7 @@
       class="flex justify-between h-30 mt-7 text-white w-full bg-blue-500"
     >
       <p class="text-xl py-8 ml-8">&copy;2022 YYC Code Collective</p>
-      <div class="grid col-start-5 pt-6 mb-6 pr-12 ">
+      <div class="pt-6 mb-6 pr-12 ">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
           <!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
           <path
