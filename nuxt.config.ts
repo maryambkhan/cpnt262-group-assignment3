@@ -4,7 +4,7 @@ import { defineNuxtConfig } from 'nuxt3'
 export default defineNuxtConfig({
     
     css: [],
-    components: ["~/components","~/components/layout","~/components/ui","~/components/utilities","~/components/cards","~/pages"],
+    components: ["~/components","~/components/layout","~/components/ui","~/components/cards","~/pages"],
     buildModules: [["@storyblok/nuxt", { accessToken:process.env.STORYBLOK_API_KEY}],'@nuxtjs/tailwindcss'],
 
     modules: [],
