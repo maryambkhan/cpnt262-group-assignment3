@@ -33,7 +33,7 @@
               text-stone-50
             "
           >
-            Viev Our Services
+            View Our Services
           </button>
         </div>
       </div>
