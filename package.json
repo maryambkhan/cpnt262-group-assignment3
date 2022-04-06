@@ -11,6 +11,6 @@
   },
   "dependencies": {
     "@storyblok/nuxt": "^3.0.0-beta.3",
-    "axois": "^0.0.1-security"
+    "axios": "^0.0.1-security"
   }
 }

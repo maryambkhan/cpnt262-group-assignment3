@@ -30,7 +30,7 @@ const cards = [
     image: "https://images.pexels.com/photos/160107/pexels-photo-160107.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
   },
   {
-    title: "JAVA SCRIPT",
+    title: "Javascript",
     description: "Take your existing website functionality to the next level",
     image: "../assets/images/java.jpg",
   },
