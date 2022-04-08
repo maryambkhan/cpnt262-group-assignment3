@@ -123,5 +123,5 @@
 
 ## Team Assesment
 
-- Tess Hutson
-- Jibril Adem
+- Tess Hutson 5
+- Jibril Adem 1
