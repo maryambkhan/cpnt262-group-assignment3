@@ -92,6 +92,9 @@
  - She told me that i can add i cons as svgs to the page 
  - Next i am going to solve netlify problem as i am done with everything else
  
+ - If you uninstall and delete the .lock, then when you reinstall, block the storyblok module by commenting it out of the config, and delete it from the package.json. Then reinstall everything else with npm i , once it's installed, re-add storyblok module and uncomment everything (this commenting thing is so that you can make sure inbetween steps you can verify that everything is working
+ - I tried this and i did not got error `not found composition api not found` but there was something else ` can not split the chunk`
+ 
  ## Problems
 
  - cant find `#app` error updating dependencies,  i am not sure what is that.
